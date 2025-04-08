@@ -1,9 +1,11 @@
 # Android_GameLoop
-Mini engine en Java para Android en Android Studio para hacer juegos.
+Mini engine in Java for Android in Android Studio to make games.
 
-Este engine lo desarrolle en la carrera, por lo que no esta completamente pulido y se puede optimizar, pero es un buen punto de inicio si deseas hacer un juego para Android sin un framework, bueno para aprender bases de videojuegos.
-Cualquier duda o pregunta no duden en preguntar.
+I developed this engine in the University, so it is not completely polished and can be optimized, but it is a good starting point if you want to make a game for Android without a framework, good for learning the basics of video games.
+Any doubt or question do not hesitate to ask.
 
-Su uso es complementamente libre y gratuito, como distribución y modificación.
+Its use is completely free, as distribution and modification.
+
+MIT License
 
 [Demo](https://www.arjierdagames.com/Share/Juegos/juego.apk)
